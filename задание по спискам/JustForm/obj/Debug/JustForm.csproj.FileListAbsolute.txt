@@ -1,0 +1,30 @@
+C:\Users\Vados\source\repos\JustForm\JustForm\bin\Debug\JustForm.exe.config
+C:\Users\Vados\source\repos\JustForm\JustForm\bin\Debug\JustForm.exe
+C:\Users\Vados\source\repos\JustForm\JustForm\bin\Debug\JustForm.pdb
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.csprojAssemblyReference.cache
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.Form1.resources
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.Properties.Resources.resources
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.csproj.GenerateResource.cache
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.csproj.CoreCompileInputs.cache
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.exe
+C:\Users\Vados\source\repos\JustForm\JustForm\obj\Debug\JustForm.pdb
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\bin\Debug\JustForm.exe.config
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\bin\Debug\JustForm.exe
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\bin\Debug\JustForm.pdb
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.csprojAssemblyReference.cache
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.Form1.resources
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.Properties.Resources.resources
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.csproj.GenerateResource.cache
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.csproj.CoreCompileInputs.cache
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.exe
+C:\Users\Алена\OneDrive\Рабочий стол\JustForm\JustForm\obj\Debug\JustForm.pdb
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\bin\Debug\JustForm.exe.config
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\bin\Debug\JustForm.exe
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\bin\Debug\JustForm.pdb
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.csprojAssemblyReference.cache
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.Form1.resources
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.Properties.Resources.resources
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.csproj.GenerateResource.cache
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.csproj.CoreCompileInputs.cache
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.exe
+C:\Users\Алена\OneDrive\Рабочий стол\задание по спискам\JustForm\obj\Debug\JustForm.pdb
